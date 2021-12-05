@@ -1,6 +1,5 @@
 import React, { useRef, useState } from "react";
 import Playarrowroundedicon from "@mui/icons-material/PlayArrowRounded";
-
 import Navigatenextroundedicon from "@mui/icons-material/NavigateNextRounded";
 import Navigatebeforeroundedicon from "@mui/icons-material/NavigateBeforeRounded";
 const Player = ({ currentSong, isPlaying, setIsPlaying }) => {
