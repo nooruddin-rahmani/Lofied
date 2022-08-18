@@ -8,6 +8,22 @@ h2,
 h3 {
   color: rgb(54, 54, 54);
 }
+body {
+  font-family: "Lato", sans-serif;
+}
+h3,
+h4 {
+  font-weight: 400;
+  color: rgb(100, 100, 100);
+}
+.App {
+  transition: all 0.5s ease;
+}
+.library-active {
+  margin-left: 30%;
+}
 
 @import "./player";
 @import "./song";
+@import "./library";
+@import "./nav";
