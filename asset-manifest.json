@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Lofied/static/css/main.077cc91b.chunk.css",
+    "main.js": "/Lofied/static/js/main.f68e7bca.chunk.js",
+    "main.js.map": "/Lofied/static/js/main.f68e7bca.chunk.js.map",
+    "runtime-main.js": "/Lofied/static/js/runtime-main.029d3da7.js",
+    "runtime-main.js.map": "/Lofied/static/js/runtime-main.029d3da7.js.map",
+    "static/js/2.9d24c2d0.chunk.js": "/Lofied/static/js/2.9d24c2d0.chunk.js",
+    "static/js/2.9d24c2d0.chunk.js.map": "/Lofied/static/js/2.9d24c2d0.chunk.js.map",
+    "static/js/3.a656a357.chunk.js": "/Lofied/static/js/3.a656a357.chunk.js",
+    "static/js/3.a656a357.chunk.js.map": "/Lofied/static/js/3.a656a357.chunk.js.map",
+    "index.html": "/Lofied/index.html",
+    "static/css/main.077cc91b.chunk.css.map": "/Lofied/static/css/main.077cc91b.chunk.css.map",
+    "static/js/2.9d24c2d0.chunk.js.LICENSE.txt": "/Lofied/static/js/2.9d24c2d0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.029d3da7.js",
+    "static/js/2.9d24c2d0.chunk.js",
+    "static/css/main.077cc91b.chunk.css",
+    "static/js/main.f68e7bca.chunk.js"
+  ]
+}
